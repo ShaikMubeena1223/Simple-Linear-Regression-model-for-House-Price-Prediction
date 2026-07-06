@@ -132,8 +132,7 @@ git clone https://github.com/ShaikMubeena1223/HousePricePrediction.git
 Add your Eclipse project screenshot here.
 
 ```md
-![Project Structure](images/<img width="940" height="432" alt="House Pridiction1" src="https://github.com/user-attachments/assets/47156375-2526-4818-84ee-6b972baa4615" />
-)
+![Project Structure](images/House Pridiction1.png)
 ```
 
 ### Console Output

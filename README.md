@@ -128,31 +128,14 @@ git clone https://github.com/ShaikMubeena1223/HousePricePrediction.git
 ## 📸 Screenshots
 
 ### Project Structure
-
-Add your Eclipse project screenshot here.
-
-```md
 ![Project Structure](House%20Pridiction1.png)
-```
 
 ### Console Output
-
-Add your console output screenshot here.
-
-```md
-![Console Output](images/House pridiction2.png)
-```
+![Console Output](House%20pridiction2.png)
 
 ### Prediction Result
-
 Add your prediction result screenshot here.
-
-```md
-![Prediction Result](images/House prediction2.png)
-```
-
----
-
+![Prediction Result](House%20pridiction2.png)
 ## 🚀 Future Enhancements
 
 * Develop a GUI using Java Swing or JavaFX.
